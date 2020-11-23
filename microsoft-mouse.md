@@ -1,5 +1,5 @@
 ---
-author: evabat
+author: Kavvadias
 title: Microsoft Mouse
 year: 1983
 image_url: /images/microsoft-mouse.jpg
