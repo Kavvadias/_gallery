@@ -1,5 +1,5 @@
 ---
-author: evabat
+author: Kavvadias
 title: Trackball
 year: 1953
 image_url: /images/trackball-mouse.jpg
